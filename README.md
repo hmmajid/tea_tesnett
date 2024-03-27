@@ -1,4 +1,3 @@
-https://tea.xyz/what-is-this-file
 # https://tea.xyz/what-is-this-file
 ---
 version: 0.1.0
